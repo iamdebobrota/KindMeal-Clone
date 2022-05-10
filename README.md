@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Deply Link : https://lustrous-hotteok-719fc7.netlify.app/
+# Deply Link :https://spontaneous-fox-d2902a.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
