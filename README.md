@@ -7,6 +7,29 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img src="https://pbs.twimg.com/media/FTCwGiCXoAIz9ld?format=jpg&name=large" alt="project-img"/>
 
+<h5>This is a website for reading blogs about recipes and pets.
+
+We created this website using ReactJS, Bootstrap .</h5>
+
+<h3>Login signup </h3>
+<img src="https://pbs.twimg.com/media/FTCxB8lWIAAlc3M?format=jpg&name=large" alt="login"/>
+And i created login and signup functionality with popup
+<img src="https://pbs.twimg.com/media/FTCxB9lXEAAjJrE?format=jpg&name=large" alt="login"/>
+
+<h3>Recipe Page</h3>
+
+<img src="https://pbs.twimg.com/media/FTCxrKCWYAMbl6G?format=jpg&name=large" alt=""/>
+
+<img src="https://pbs.twimg.com/media/FTCxrKBWUAQuPn8?format=jpg&name=large" alt=""/>
+
+<h3>Directory Page</h3>
+<img src="https://pbs.twimg.com/media/FTCyi9RXwA0RDZa?format=jpg&name=large" alt=""/>
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
